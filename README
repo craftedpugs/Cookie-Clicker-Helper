@@ -1,0 +1,9 @@
+To use this program to automate cookie clicker:
+
+open the web version of cookie clicker "https://orteil.dashnet.org/cookieclicker/"
+
+Do ctrl+shift+I to open inspect
+
+open console
+
+paste the code from the javascript file
