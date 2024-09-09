@@ -17,6 +17,12 @@ function getGrandma() {
     setTimeout(getGrandma, 250);
 }
 
+function getFarm() {
+    document.getElementById("productName2").click();
+
+    setTimeout(getFarm, 250);
+}
+
 function getUpgrade() {
     document.getElementById("upgrade0").click();
 
@@ -28,6 +34,7 @@ function getUpgrade() {
 clickCookie();
 getCursor();
 getGrandma();
+getFarm();
 getUpgrade();
 
 //Still more to come...
